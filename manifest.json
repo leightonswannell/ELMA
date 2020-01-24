@@ -1,6 +1,6 @@
 {
   "name": "Elvanto Live Message Alert",
-  "description" : "Base Level Extension",
+  "description" : "Elvanto Live Message Alert (ELMA) enables a user to be alerted when a new message is received through Elvanto Live.",
   "version": "1.0",
   "permissions": ["activeTab", "declarativeContent", "storage"],
   "options_page": "options.html",
